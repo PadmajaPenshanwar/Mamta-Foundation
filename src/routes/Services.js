@@ -4,6 +4,8 @@ import Footer from "../components/Footer";
 import Wwd from "../components/Wwd";
 import Weprovide from "../components/Weprovide";
 import Hero from '../components/Hero';
+import ScrollToTopOnMount from "./scrollToTop";
+
 function Services(){
     return(
         <>
