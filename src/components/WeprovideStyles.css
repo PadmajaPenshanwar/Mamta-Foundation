@@ -1,0 +1,84 @@
+div {
+    display: block;
+}
+.weprovide{
+    margin: 4rem 6rem;
+    /* display: inline; */
+}
+.first{
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+
+}
+/* .text{
+    width: 45%;
+    text-align: start;
+    font-size: 1.1rem;
+} */
+
+/* .text h2{
+    padding-bottom: 1rem;
+
+} */
+.image{
+    position: relative;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    z-index: -99;
+}
+
+
+/* .image img:nth-child(2){
+    position: absolute;
+    top: -10%;
+    right: 0;
+} */
+.services{
+    font-size: 14px;
+    color: #000;
+    line-height: 20px;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    /* margin-left: 1rem;
+    margin-right: 1rem; */
+}
+.services p{
+    
+}
+img{
+    float: left;
+    margin: 0 5px 5px 0;
+    border: none;
+    overflow-clip-margin: content-box;
+}
+
+h2{
+    /* font-size: 18px; */
+    text-shadow: 2px 2px 2px #fff;
+}
+
+@media screen and (max-width: 850px){
+    
+    .first{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 2.5rem;
+        
+    }
+    /* .text{
+        width: 100%;
+    } */
+    .image{
+        width: 100%;
+        margin: 1.8rem 0;
+    }
+    .image img{
+        height: 250px;
+    }
+}

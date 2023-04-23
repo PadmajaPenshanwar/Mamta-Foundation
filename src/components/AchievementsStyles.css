@@ -1,0 +1,30 @@
+.achivement{
+    margin: 4rem 6rem;
+    color: #2a2a2a;
+}
+.achivement h1{
+    text-align: center;
+    font-size: 2rem;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.a-card{
+    display: inline;
+    flex: 0 0 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+    width: 100%;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: .3s;
+    border: 2px solid transparent;
+    
+}
+.a-card:hover{
+    border-color: #1d39c4;
+}
