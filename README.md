@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# NGO Website Project README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+This README provides an overview of the NGO Website project created using React.js. The project aims to develop a user-friendly and informative website for a non-governmental organization (NGO) to showcase their mission, activities, and engage with volunteers and donors. This project is implemented using the React.js library for building a dynamic and interactive user interface.
 
-## Available Scripts
+  
+|  Login                              |                                 |
+|-----------------------------------------|-----------------------------------------|
+| ![Screenshot (90)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/baa6299d-1b95-44e0-bd4f-ea3d90c016a4)| ![Screenshot (91)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/9a17ac0e-5b33-473e-b52d-4f25deb64ec7) |
 
-In the project directory, you can run:
+| Admin                                | Employee                                 |
+|-----------------------------------------|-----------------------------------------|
+| ![Image 3](![Screenshot (92)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/b600d534-b8d9-4c29-b81a-ce6dbf3cf81a)) | ![Image 10]![Screenshot (93)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/37816e4c-4a5e-4d68-a522-7ce5a4bbd0b2)) |
+| ![Image 4](![Screenshot (94)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/945b5c2f-a9b9-437d-9976-16349943a389)) | ![Image 11](![Screenshot (95)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/3a0511e9-68bc-423d-b503-93450a4b1b1f)) |
+| ![Image 5](![Screenshot (96)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/773527b5-e365-47d4-b2e7-cd0ea29e5763)) | ![Image 12](![Screenshot (97)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/95da5deb-6527-4eff-90b4-69968d3f9578)) |
+| ![Image 6](![Screenshot (98)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/466b32a1-d6ff-41c0-a2be-974e10a15ef6)) | ![Image 13](![Screenshot (99)](https://github.com/PadmajaPenshanwar/Mamta-Foundation/assets/110777770/8d2635b6-60ca-4643-a35a-767d3325f66c)) |
+                                
 
-### `npm start`
+## Usage
+- Customize the content and styling of the website by editing the components and pages in the src directory.
+- Update the NGO's information, mission, and contact details.
+- Integrate any additional features or functionality required for the NGO's website.
+## Features
+ - Dynamic routing to navigate between different pages.
+ - Responsive design for various screen sizes.
+ - Integration with a backend API for fetching and displaying data (if applicable).
+ - Contact form for volunteers and donors to get in touch.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
